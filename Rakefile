@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "carrierwave-orm-mongoo"
   gem.homepage = "http://github.com/benmyles/carrierwave-orm-mongoo"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Mongoo adapter for CarrierWave}
+  gem.description = %Q{Use CarrierWave with the Mongoo object mapper}
   gem.email = "ben.myles@gmail.com"
   gem.authors = ["Ben Myles"]
   # dependencies defined in Gemfile
