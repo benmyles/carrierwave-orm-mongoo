@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
-gem "mongoo", "~> 0.3.1"
+gem "mongoo", "~> 0.4.0"
 gem "carrierwave", "~> 0.5.4"
 
 # Add dependencies to develop your gem here.
